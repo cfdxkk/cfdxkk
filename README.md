@@ -1,3 +1,7 @@
+<img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="300px">
+
+
+
 ### Hi there 👋
 
 <!--
