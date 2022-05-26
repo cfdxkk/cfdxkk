@@ -6,9 +6,9 @@
 [//]: # (<img align="right" src="https://raw.githubusercontent.com/Aira-Sakuranomiya/Aira-Sakuranomiya/main/AiraGitHubProfile.png" width="300px">)
 
 ### 你好、Hello、こにちは 👋
-`cfdxkk` 是 `冲锋的小卡卡` 的缩写，至于我为啥叫 `冲锋的小卡卡` ，我自己也记不清了  
-`cfdxkk` is the abbreviation of `冲锋的小卡卡`   
-我在其他平台也可能会使用像 `02`、` ZERO TWO` 这样ID  
+`cfdxkk` 是 `冲锋的小卡卡` 的缩写，至于我为啥叫 `冲锋的小卡卡` ，我自己也记不清了   
+我在其他平台也可能会使用像 `02`、` ZERO TWO` 这样的ID。   
+`cfdxkk` is the abbreviation of `冲锋的小卡卡`    
 You can also see me use the ID like `02` or ` ZERO TWO` in other website.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cfdxkk&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=66ccff&title_color=66ccff&hide_border=true)
