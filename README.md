@@ -78,11 +78,14 @@ You can also see me use the ID like `02` or ` ZERO TWO` in other website.
   * Fate/Zero
   * ...
 
+<img id="img1" align="right" src="imgs/ZERO_TWO_07.png" width="10%" style="margin-top: 20px; border-radius: 10px 10px">
+
   时间到了 **2018年，春**  
   这是非常重要的一年，应该是我在机电的一年级下学期，
 
   @睡到自然醒 在追一部新番，叫 《紫罗兰永恒花园》  
   我&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;也在追一部新番，叫 《DARLING in the FRANXX》
+
 
   当我在 darlinginthefranxx吧 (百度贴吧) 找这动画的资源时，我看到了 @冰淤 发布的 calibur.tv 的宣传帖子  
   当我访问 calibur.tv 时，我被它精美简洁的设计迷到了。  
@@ -166,7 +169,7 @@ You can also see me use the ID like `02` or ` ZERO TWO` in other website.
   在这个组里我是真的学了不少东西，头发也相应地掉了不少
 </details>
 
-### 让我们在星海中再相遇
+### 最后，让我们在星海中再相遇
 
 <img id="img1" align="top" src="imgs/ZERO_TWO_04.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 
@@ -190,13 +193,27 @@ You can also see me use the ID like `02` or ` ZERO TWO` in other website.
 ![Node.js](https://img.shields.io/badge/-IBM-339933?style=flat-square&logo=IBM&logoColor=fff)
 etc.......
 
-[//]: # (<img id="img1" align="left" src="imgs/ZERO_TWO_02.jpg" width="39%" style="margin-top: 20px; border-radius: 10px 10px">)
 
-[//]: # (<img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">)
+<details>
+  <summary>查看更多02的插画...</summary>
 
-[//]: # (<img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">)
 
-[//]: # (<img id="img1" align="right" src="imgs/STAR_CITIZEN_01.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">)
+<img id="img1" align="middle" src="imgs/ZERO_TWO_10.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
+
+<img id="img1" align="left" src="imgs/ZERO_TWO_08.png" width="39.8%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_09.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
+
+<img id="img1" align="left" src="imgs/ZERO_TWO_11.jpg" width="36.1%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="62.75%" style="margin-top: 20px; border-radius: 10px 10px">
+
+<img id="img1" align="left" src="imgs/ZERO_TWO_13.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
+
+
+</details>
+
+
 
 <!--
 **cfdxkk/cfdxkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
