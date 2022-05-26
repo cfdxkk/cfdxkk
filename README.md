@@ -1,4 +1,5 @@
-<img id="img1" align="right" src="imgs/ZERO_TWO_03.jpg" width="300px" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_03.jpg" width="35%" style="margin-top: 20px; border-radius: 10px 10px">
+
 
 
 
@@ -165,6 +166,10 @@ You can also see me use the ID like `02` or ` ZERO TWO` in other website.
   在这个组里我是真的学了不少东西，头发也相应地掉了不少
 </details>
 
+### 让我们在星海中再相遇
+
+<img id="img1" align="top" src="imgs/ZERO_TWO_04.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
+
 ---
 
 #### 社交媒体
@@ -185,8 +190,13 @@ You can also see me use the ID like `02` or ` ZERO TWO` in other website.
 ![Node.js](https://img.shields.io/badge/-IBM-339933?style=flat-square&logo=IBM&logoColor=fff)
 etc.......
 
+[//]: # (<img id="img1" align="left" src="imgs/ZERO_TWO_02.jpg" width="39%" style="margin-top: 20px; border-radius: 10px 10px">)
 
+[//]: # (<img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">)
 
+[//]: # (<img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">)
+
+[//]: # (<img id="img1" align="right" src="imgs/STAR_CITIZEN_01.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">)
 
 <!--
 **cfdxkk/cfdxkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
