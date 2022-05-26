@@ -193,9 +193,18 @@ You can also see me use the ID like `02` or ` ZERO TWO` in other website.
 ![Node.js](https://img.shields.io/badge/-IBM-339933?style=flat-square&logo=IBM&logoColor=fff)
 etc.......
 
+#### 我的梦想
+
+1. Make Calibur Great Again
+2. DARLING in the FRANXX 第二季
+3. 成为"聚光灯下的人"
+
+---
 
 <details>
-  <summary>查看更多02的插画...</summary>
+  <summary>
+     谢谢你看到这儿^_^ 您可以点击这里查看更多02的插画
+  </summary>
 
 
 <img id="img1" align="middle" src="imgs/ZERO_TWO_10.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
@@ -209,8 +218,6 @@ etc.......
 <img id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="62.75%" style="margin-top: 20px; border-radius: 10px 10px">
 
 <img id="img1" align="left" src="imgs/ZERO_TWO_13.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
-
-
 </details>
 
 
