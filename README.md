@@ -17,7 +17,7 @@ You can also see me use the ID like `02` or `ZERO TWO` in other website.
 - 📚 我喜欢每天能学到新知识
 - ⭐ calibur.tv 管理员
 - 🏢 IBMer
-- 🎶 喜欢听EDM，最近喜欢 future base、dubstep 和 Synthwave
+- 🎶 喜欢听 EDM，最近喜欢 Future Base、Dubstep 和 Synthwave
 - 🎮 喜欢玩各种3A，星际公民玩家 (董事长俱乐部成员)，战雷美系毕业
 
 这个文档的 Layout 本来是想抄 @艾了个拉 的自述文件，  
