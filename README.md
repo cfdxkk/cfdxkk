@@ -209,13 +209,16 @@ etc.......
 
 <img id="img1" align="middle" src="imgs/ZERO_TWO_10.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 
-<img id="img1" align="left" src="imgs/ZERO_TWO_08.png" width="calc(39.8% - 20px)" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_09.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="left" src="imgs/ZERO_TWO_08.png" width="36.5%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_09.jpg" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
 
-<img id="img1" align="left" src="imgs/ZERO_TWO_11.jpg" width="36.1%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="62.75%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="left" src="imgs/ZERO_TWO_11.jpg" width="34%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
+
+<img class="flex-items-center" id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
+
 
 <img id="img1" align="left" src="imgs/ZERO_TWO_13.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 </details>
