@@ -7,9 +7,9 @@
 
 ### 你好、Hello、こにちは 👋
 `cfdxkk` 是 `冲锋的小卡卡` 的缩写，至于我为啥叫 `冲锋的小卡卡` ，我自己也记不清了   
-我在其他平台也可能会使用像 `02`、` ZERO TWO` 这样的ID。   
+我在其他平台也可能会使用像 `02`、`ZERO TWO` 这样的ID。   
 `cfdxkk` is the abbreviation of `冲锋的小卡卡`    
-You can also see me use the ID like `02` or ` ZERO TWO` in other website.
+You can also see me use the ID like `02` or `ZERO TWO` in other website.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=cfdxkk&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=66ccff&title_color=66ccff&hide_border=true)
 
@@ -209,7 +209,7 @@ etc.......
 
 <img id="img1" align="middle" src="imgs/ZERO_TWO_10.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 
-<img id="img1" align="left" src="imgs/ZERO_TWO_08.png" width="39.8%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="left" src="imgs/ZERO_TWO_08.png" width="calc(39.8% - 20px)" style="margin-top: 20px; border-radius: 10px 10px">
 <img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
 <img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
 <img id="img1" align="right" src="imgs/ZERO_TWO_09.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
