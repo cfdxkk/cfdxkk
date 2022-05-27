@@ -217,9 +217,6 @@ etc.......
 <img id="img1" align="left" src="imgs/ZERO_TWO_11.jpg" width="34%" style="margin-top: 20px; border-radius: 10px 10px">
 <img id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
 
-<img border="20px solid red" id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
-
-
 <img id="img1" align="left" src="imgs/ZERO_TWO_13.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 </details>
 
