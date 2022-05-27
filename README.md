@@ -11,14 +11,16 @@
 `cfdxkk` is the abbreviation of `冲锋的小卡卡`    
 You can also see me use the ID like `02` or `ZERO TWO` in other website.
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=cfdxkk&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=66ccff&title_color=66ccff&hide_border=true)
-
-- 🌸 喜欢可爱的东西 (但自己并不可爱)
+- 🌸 喜欢可爱的东西
 - 📚 我喜欢每天能学到新知识
 - ⭐ calibur.tv 管理员
 - 🏢 IBMer
 - 🎶 喜欢听EDM，最近喜欢 future base、dubstep 和 Synthwave
 - 🎮 喜欢玩各种3A，星际公民玩家 (董事长俱乐部成员)，战雷美系毕业
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=cfdxkk&count_private=true&show_icons=true&locale=cn&include_all_commits=true&icon_color=66ccff&title_color=66ccff&hide_border=true)
+
+
 
 这个文档的 Layout 本来是想抄 @艾了个拉 的自述文件，  
 但是，当 README.md 抄到这里的时候，我人愣住了，   
@@ -210,19 +212,16 @@ etc.......
 <img id="img1" align="middle" src="imgs/ZERO_TWO_10.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 
 <img id="img1" align="left" src="imgs/ZERO_TWO_08.png" width="36.5%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_05.png" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_06.png" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_09.jpg" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="bottom" src="imgs/ZERO_TWO_05.png" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="bottom" src="imgs/ZERO_TWO_06.png" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="bottom" src="imgs/ZERO_TWO_09.jpg" width="56.5%" style="margin-top: 20px; border-radius: 10px 10px">
 
-<img id="img1" align="left" src="imgs/ZERO_TWO_11.jpg" width="34%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="right" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
-
+<img id="img1" align="top" src="imgs/ZERO_TWO_11.jpg" width="34%" style="margin-top: 20px; border-radius: 10px 10px">
+<img id="img1" align="bottom" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
 
 <img id="img1" align="left" src="imgs/ZERO_TWO_13.jpg" width="100%" style="margin-top: 20px; border-radius: 10px 10px">
 
 
-<img id="img1" align="top" src="imgs/ZERO_TWO_11.jpg" width="34%" style="margin-top: 20px; border-radius: 10px 10px">
-<img id="img1" align="bottom" src="imgs/ZERO_TWO_12.jpg" width="59%" style="margin-top: 20px; border-radius: 10px 10px">
 
 
 </details>
