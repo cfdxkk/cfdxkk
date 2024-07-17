@@ -4,7 +4,7 @@ I'm a Game Player P.R. Consultant from Polska with a passion for Asian and anime
 
 I have a background in technology and a keen interest in software development. Combining my love for gaming and technology, I am currently involved in designing a VRChat in-game map. I'm always open to connecting with like-minded individuals and collaborating on innovative projects.
 
-Work Language: Polski, Chinese, English, Japanese.
+Working Language: Polski, Chinese, English and Japanese.
 
 ![cfdxkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfdxkk&show_icons=true&theme=transparent)
 
