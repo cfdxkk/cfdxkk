@@ -6,5 +6,4 @@ I have a background in technology and a keen interest in software development. C
 
 Working Language: Polski, Chinese, English and Japanese.
 
-![cfdxkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfdxkk&show_icons=true&theme=transparent)
-
+![github cover 2](https://github.com/user-attachments/assets/13f08e66-79b0-4f13-97d8-3fdbb2aabaca)
