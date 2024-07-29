@@ -6,4 +6,7 @@ I have a background in technology and a keen interest in software development. C
 
 Working Language: Polski, Chinese, English and Japanese.
 
-![github cover 2](https://github.com/user-attachments/assets/13f08e66-79b0-4f13-97d8-3fdbb2aabaca)
+![digital badge 20240729](https://github.com/user-attachments/assets/22073ace-032e-4464-91e2-69f5d86a9702)
+[![github cover 2](https://github.com/user-attachments/assets/13f08e66-79b0-4f13-97d8-3fdbb2aabaca)](https://earth.google.com/web/search/Monte+Nevoso/@61.55422823,7.47702252,1456.82450941a,117676.9247609d,35y,9.62382343h,20.78451407t,0r/data=CmcaPRI3CiUweDQ2MTY3NjE3NTM2NGYzNWY6MHhiOTE1YTNiYzUwMmY4YjhiKg5Kb3N0ZWRhbHNicmVlbhgCIAEiJgokCTg_oeBRLUNAEZukc_wnAUFAGddinPoKYV9AIbaARgmLg1tAOgMKATA)
+
+
