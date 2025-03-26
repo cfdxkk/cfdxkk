@@ -1,6 +1,6 @@
 Hello! 👋   
 The gallery below shows some of the open source projects¹ I've worked on, hope you like it.  
-Wark language: Chinese, English and Japanese.   
+Woork language: Chinese, English and Japanese.   
 
 ¹ Each project has a different open source license(s), which may change over time. Please refer to the open source license(s) in correct project repository.
 
